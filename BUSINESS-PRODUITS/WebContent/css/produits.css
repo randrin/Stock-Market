@@ -1,0 +1,41 @@
+@CHARSET "ISO-8859-1";
+
+.table1 th {
+	background-color: orange;
+}
+ul li {
+	padding-left: 10px;
+}
+.home {
+	padding:50px;
+	margin:50px;
+}
+#header-wrapper {
+	width:100%;
+	padding-top: 20px;
+}
+.logo{
+	padding-top:10px;
+	padding-left:50px;
+	margin-right: 10px;
+	font-size: 35px;
+	font-family: fantasy;
+}
+.tagline {
+	font-size: 10px;
+	margin-top: 50px;
+	margin-left: -226px;
+	font-family: monospace;
+	color:red;
+}
+.nav-wrapper {
+	margin-left: 100px;
+	margin-top: 15px;
+}
+
+.grafico {
+	min-width: 310px;
+	max-width: 400px;
+	height: 280px;
+	margin: 0 auto
+}
