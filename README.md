@@ -1,2 +1,2 @@
 # Stock-Market
-Application de Gestion de Stock Marchandises
+Application de Gestion de Stock (entrèes-sorties) Marchandises
